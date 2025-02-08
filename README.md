@@ -2,6 +2,16 @@
 
 A WebSocket-based bot for automating Sparkchain connections with support for multiple accounts and proxy rotation.
 
+## Registrasion
+
+- Open Link : Sparkchain Airdrop (https://sparkchain.ai/register/?r=46772107)
+- Register Via Email
+- Verifikasi Email
+- Click Logo Task 》Complete All Task
+- Download Extension (https://chromewebstore.google.com/detail/spark-lite-node/jlpniknnodfkbmbgkjelcailjljlecch) (Use Mises or Kiwi)
+- Login and Start Mining
+- Done, Dont Miss
+
 ## Features
 
 - Multiple account support
@@ -43,7 +53,7 @@ socks5://proxy2:port
 ## How to Find Access Token & Device-Id
 > **Right Click on Extension then inspect elemen.**
 
-![Example](data.png)
+![Example](data.PNG)
 
 ## Usage
 
