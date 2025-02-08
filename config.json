@@ -1,0 +1,8 @@
+{
+    "deviceId": "your device-id",
+    "tokens": [
+        "your_token_1",
+        "your_token_2",
+        "..."
+    ]
+}
