@@ -4,7 +4,7 @@ A WebSocket-based bot for automating Sparkchain connections with support for mul
 
 ## Registrasion
 
-- Open Link : Sparkchain Airdrop (https://sparkchain.ai/register/?r=46772107)
+- Open Link : Sparkchain Airdrop (https://sparkchain.ai/register/?r=46786323)
 - Register Via Email
 - Verifikasi Email
 - Click Logo Task 》Complete All Task
